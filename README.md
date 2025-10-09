@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información del estudiante
+## Información de la estudiante
 Nicole Zoe Camacho Quezada [22211747]; L22211747@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
